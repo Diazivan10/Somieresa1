@@ -1,0 +1,9 @@
+.main {
+    margin-top: 12rem;
+}
+
+.container-main {
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+}
