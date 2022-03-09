@@ -2,20 +2,14 @@
 @import "main/index.css";
 @import "footer/index.css";
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto';
     color: #333;
     font-size: 1.2rem;
     line-height: 1.6em;
     margin: 0;
-}
-
-p {
-    margin-bottom: 1.6em;
-}
-
-h1 {
-    font-size: 2rem;
-    line-height: 1.3em;
 }
 
