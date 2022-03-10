@@ -1,9 +1,3 @@
-.container-nav {
-  width: 90%;
-  max-width: 1250px;
-  margin: 0 auto;
-}
-
 .header {
   background: #333;
   color: #ffffff;
@@ -12,11 +6,18 @@
   left: 0;
   top: 0;
   right: 0;
+  z-index: 1000;
 }
 
 .header a {
   color: #ffffff;
   text-decoration: none;
+}
+
+.container-nav {
+  width: 90%;
+  max-width: 1250px;
+  margin: 0 auto;
 }
 
 .logo-nav-container {
